@@ -51,7 +51,7 @@
     </div>
 </nav>
 <!-- Strat jumbotron-->
-<div class="jumbotron " style="padding-top: 100px;padding-bottom:50px; background: url(<?php base_url(); ?>assets/images/bg-artikel.png) center center no-repeat #20231E;">
+<div class="jumbotron " style="padding-top: 100px;padding-bottom:50px; background: url(<?php echo base_url(); ?>assets/images/bg-artikel.png) center center no-repeat #20231E;">
     <div class="container" style="text-align: center; color: white;">
         <h1>Hallo Para Nyimak!!!</h1>
         <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
