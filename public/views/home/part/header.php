@@ -31,7 +31,9 @@
         </div>
 
         <div id="navbar" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav" style="margin-top: 6px">
+
+
+            <ul class="nav  navbar-left navbar-nav" style="margin-top: 6px">
                 <li class="active" ><a href="#">ARTICLES <span class="sr-only">(current)</span></a></li>
                 <li ><a href="#">Link</a></li>
             </ul>
@@ -49,11 +51,11 @@
     </div>
 </nav>
 <!-- Strat jumbotron-->
-<div class="jumbotron" style="padding-top: 100px;padding-bottom:50px; ">
-    <div class="container" style="text-align: center;">
+<div class="jumbotron " style="padding-top: 100px;padding-bottom:50px; background: url(<?php base_url(); ?>assets/images/bg-artikel.png) center center no-repeat #20231E;">
+    <div class="container" style="text-align: center; color: white;">
         <h1>Hallo Para Nyimak!!!</h1>
         <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg " href="#" role="button">Learn more &raquo;</a></p>
+        <p><a class="btn btn-danger btn-lg " href="#" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
 <!-- End jumbotron-->

@@ -14,9 +14,14 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('home/part/header');
 		$this->load->view('home/home/home');
-		$this->load->view('home/part/sidebar');
+		//$this->load->view('home/part/sidebar');
 		$this->load->view('home/part/footer');
 	
+	}
+
+	public function page()
+	{
+		
 	}
 
 }
