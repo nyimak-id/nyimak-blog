@@ -13,7 +13,9 @@ class Home extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('home/part/header');
+		$this->load->view('home/part/jumbotron');
 		$this->load->view('home/home/home');
+
 		//$this->load->view('home/part/sidebar');
 		$this->load->view('home/part/footer');
 	
@@ -21,7 +23,11 @@ class Home extends CI_Controller {
 
 	public function page()
 	{
-		
+		$this->load->view('home/part/header');
+		$this->load->view('home/page/page');
+
+		$this->load->view('home/part/footer');
+
 	}
 
 }

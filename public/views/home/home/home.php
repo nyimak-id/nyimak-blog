@@ -3,96 +3,158 @@
 		<div class="col-md-12">
 
 			<div class="row">
-			<div class="col-md-3">		
-			<div class="card" >
-			  <img class="card-img-top img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" alt="Card image cap">
-			  <div class="card-block">
-			    <h4 class="card-title">Card title</h4>
-			    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-			  </div>
-			</div>
-			</div>
+				<div class="col-md-3">
+                    <div class="card " style="min-height: 230px">
+                    <a href="<?php echo base_url(); ?>home/page">
+                        <div class="card-image" style="height: 164px; min-height: 164px">
+                            <img class="img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 100%;height: 100%">
+                        </div>
+                    </a>    
+                        <div class="card-content" style="min-height: 60px">
+                            <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+                            <a href="<?php echo base_url(); ?>home/page">Belajar Css sdasdawadsas</a>
+                        </div>
+                        <div class="card-autor" style="padding: 1px 18px;background: #ffffff">
+                            <a style="font-size: 12px;color: #767676;font-weight: 500;text-decoration: none" href=""></a>
+                            <p style="color: #84909f;font-size: 11px;margin-top: 5px;padding-bottom: 5px">200 views</p>
+                        </div>
+                    </div>
+                </div>
 
-			<div class="col-md-3">		
-			<div class="card" >
-			  <img class="card-img-top img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" alt="Card image cap">
-			  <div class="card-block">
-			    <h4 class="card-title">Card title</h4>
-			    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-			  </div>
-			</div>
-			</div>
+				<div class="col-md-3">
+                    <div class="card " style="min-height: 230px">
+                    <a href="<?php echo base_url(); ?>home/page">
+                        <div class="card-image" style="height: 164px; min-height: 164px">
+                            <img class="img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 100%;height: 100%">
+                        </div>
+                    </a>    
+                        <div class="card-content" style="min-height: 60px">
+                            <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+                            <a href="<?php echo base_url(); ?>home/page">Belajar Css sdasdawadsas</a>
+                        </div>
+                        <div class="card-autor" style="padding: 1px 18px;background: #ffffff">
+                            <a style="font-size: 12px;color: #767676;font-weight: 500;text-decoration: none" href=""></a>
+                            <p style="color: #84909f;font-size: 11px;margin-top: 5px;padding-bottom: 5px">200 views</p>
+                        </div>
+                    </div>
+                </div>
 
-			<div class="col-md-3">		
-			<div class="card" >
-			  <img class="card-img-top img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" alt="Card image cap">
-			  <div class="card-block">
-			    <h4 class="card-title">Card title</h4>
-			    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-			  </div>
-			</div>
-			</div>
 
-			<div class="col-md-3">		
-			<div class="card" >
-			  <img class="card-img-top img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" alt="Card image cap">
-			  <div class="card-block">
-			    <h4 class="card-title">Card title</h4>
-			    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-			  </div>
-			</div>
-			</div>
+				<div class="col-md-3">
+                    <div class="card " style="min-height: 230px">
+                    <a href="<?php echo base_url(); ?>home/page">
+                        <div class="card-image" style="height: 164px; min-height: 164px">
+                            <img class="img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 100%;height: 100%">
+                        </div>
+                    </a>    
+                        <div class="card-content" style="min-height: 60px">
+                            <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+                            <a href="<?php echo base_url(); ?>home/page">Belajar Css sdasdawadsas</a>
+                        </div>
+                        <div class="card-autor" style="padding: 1px 18px;background: #ffffff">
+                            <a style="font-size: 12px;color: #767676;font-weight: 500;text-decoration: none" href=""></a>
+                            <p style="color: #84909f;font-size: 11px;margin-top: 5px;padding-bottom: 5px">200 views</p>
+                        </div>
+                    </div>
+                </div>
+
+
+				<div class="col-md-3">
+                    <div class="card " style="min-height: 230px">
+                    <a href="<?php echo base_url(); ?>home/page">
+                        <div class="card-image" style="height: 164px; min-height: 164px">
+                            <img class="img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 100%;height: 100%">
+                        </div>
+                    </a>    
+                        <div class="card-content" style="min-height: 60px">
+                            <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+                            <a href="<?php echo base_url(); ?>home/page">Belajar Css sdasdawadsas</a>
+                        </div>
+                        <div class="card-autor" style="padding: 1px 18px;background: #ffffff">
+                            <a style="font-size: 12px;color: #767676;font-weight: 500;text-decoration: none" href=""></a>
+                            <p style="color: #84909f;font-size: 11px;margin-top: 5px;padding-bottom: 5px">200 views</p>
+                        </div>
+                    </div>
+                </div>
+
 
 			</div>
 
 			<div class="row">
-			<div class="col-md-3">		
-			<div class="card" >
-			  <img class="card-img-top img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" alt="Card image cap">
-			  <div class="card-block">
-			    <h4 class="card-title">Card title</h4>
-			    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-			  </div>
-			</div>
-			</div>
+				<div class="col-md-3">
+                    <div class="card " style="min-height: 230px">
+                    <a href="<?php echo base_url(); ?>home/page">
+                        <div class="card-image" style="height: 164px; min-height: 164px">
+                            <img class="img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 100%;height: 100%">
+                        </div>
+                    </a>    
+                        <div class="card-content" style="min-height: 60px">
+                            <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+                            <a href="<?php echo base_url(); ?>home/page">Belajar Css sdasdawadsas</a>
+                        </div>
+                        <div class="card-autor" style="padding: 1px 18px;background: #ffffff">
+                            <a style="font-size: 12px;color: #767676;font-weight: 500;text-decoration: none" href=""></a>
+                            <p style="color: #84909f;font-size: 11px;margin-top: 5px;padding-bottom: 5px">200 views</p>
+                        </div>
+                    </div>
+                </div>
 
-			<div class="col-md-3">		
-			<div class="card" >
-			  <img class="card-img-top img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" alt="Card image cap">
-			  <div class="card-block">
-			    <h4 class="card-title">Card title</h4>
-			    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-			  </div>
-			</div>
-			</div>
+				<div class="col-md-3">
+                    <div class="card " style="min-height: 230px">
+                    <a href="<?php echo base_url(); ?>home/page">
+                        <div class="card-image" style="height: 164px; min-height: 164px">
+                            <img class="img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 100%;height: 100%">
+                        </div>
+                    </a>    
+                        <div class="card-content" style="min-height: 60px">
+                            <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+                            <a href="<?php echo base_url(); ?>home/page">Belajar Css sdasdawadsas</a>
+                        </div>
+                        <div class="card-autor" style="padding: 1px 18px;background: #ffffff">
+                            <a style="font-size: 12px;color: #767676;font-weight: 500;text-decoration: none" href=""></a>
+                            <p style="color: #84909f;font-size: 11px;margin-top: 5px;padding-bottom: 5px">200 views</p>
+                        </div>
+                    </div>
+                </div>
 
-			<div class="col-md-3">		
-			<div class="card" >
-			  <img class="card-img-top img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" alt="Card image cap">
-			  <div class="card-block">
-			    <h4 class="card-title">Card title</h4>
-			    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-			  </div>
-			</div>
-			</div>
 
-			<div class="col-md-3">		
-			<div class="card" >
-			  <img class="card-img-top img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" alt="Card image cap">
-			  <div class="card-block">
-			    <h4 class="card-title">Card title</h4>
-			    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-			  </div>
-			</div>
-			</div>
+				<div class="col-md-3">
+                    <div class="card " style="min-height: 230px">
+                    <a href="<?php echo base_url(); ?>home/page">
+                        <div class="card-image" style="height: 164px; min-height: 164px">
+                            <img class="img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 100%;height: 100%">
+                        </div>
+                    </a>    
+                        <div class="card-content" style="min-height: 60px">
+                            <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+                            <a href="<?php echo base_url(); ?>home/page">Belajar Css sdasdawadsas</a>
+                        </div>
+                        <div class="card-autor" style="padding: 1px 18px;background: #ffffff">
+                            <a style="font-size: 12px;color: #767676;font-weight: 500;text-decoration: none" href=""></a>
+                            <p style="color: #84909f;font-size: 11px;margin-top: 5px;padding-bottom: 5px">200 views</p>
+                        </div>
+                    </div>
+                </div>
+
+
+				<div class="col-md-3">
+                    <div class="card " style="min-height: 230px">
+                    <a href="<?php echo base_url(); ?>home/page">
+                        <div class="card-image" style="height: 164px; min-height: 164px">
+                            <img class="img-responsive" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 100%;height: 100%">
+                        </div>
+                    </a>    
+                        <div class="card-content" style="min-height: 60px">
+                            <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+                            <a href="<?php echo base_url(); ?>home/page">Belajar Css sdasdawadsas</a>
+                        </div>
+                        <div class="card-autor" style="padding: 1px 18px;background: #ffffff">
+                            <a style="font-size: 12px;color: #767676;font-weight: 500;text-decoration: none" href=""></a>
+                            <p style="color: #84909f;font-size: 11px;margin-top: 5px;padding-bottom: 5px">200 views</p>
+                        </div>
+                    </div>
+                </div>
+
 
 			</div>
 
@@ -101,6 +163,6 @@
 			</div>
 
 		</div>
-</div>
+	</div>
 </div>
 

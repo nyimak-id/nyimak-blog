@@ -12,7 +12,7 @@
     <link href="<?php print base_url() ?>assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php print base_url() ?>assets/css/font-awesome/css/font-awesome.css" rel="stylesheet">
 </head>
-<body style="background: #FAFAFA;">
+<body  style="background: #F8F9FA;">
 
 <nav class="navbar-tube navbar-fixed-top navbar-default" style="background-color: #ffffff;border-color: #ffffff;">
     <div class="container">
@@ -50,12 +50,3 @@
         </div>
     </div>
 </nav>
-<!-- Strat jumbotron-->
-<div class="jumbotron " style="padding-top: 100px;padding-bottom:50px; background: url(<?php echo base_url(); ?>assets/images/bg-artikel.png) center center no-repeat #20231E;">
-    <div class="container" style="text-align: center; color: white;">
-        <h1>Hallo Para Nyimak!!!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-danger btn-lg " href="#" role="button">Learn more &raquo;</a></p>
-    </div>
-</div>
-<!-- End jumbotron-->
