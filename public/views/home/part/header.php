@@ -35,7 +35,7 @@
 
             <ul class="nav  navbar-left navbar-nav" style="margin-top: 6px">
                 <li class="active" ><a href="#">ARTICLES <span class="sr-only">(current)</span></a></li>
-                <li ><a href="#">Link</a></li>
+                <li ><a href="#">VIDEO</a></li>
             </ul>
 
             <form class="navbar-form navbar-right" style="border-color: #ffffff;margin-top: 9px;">
