@@ -26,19 +26,19 @@
             <a class="tube-logo-navbar" href="<?php echo base_url() ?>">
                 <img class="tube-logo" src="<?php print base_url() ?>assets/images/logo.png" alt=""/>
             </a>
-            <span class="green-red" style="color: #d52f36; margin-right: 50px;"><strong> BLOG </strong></span>
+            <span class="green-red" style="color: #d52f36; margin-right: 50px; "><strong> BLOG </strong></span>
 
         </div>
 
         <div id="navbar" class="navbar-collapse collapse">
 
 
-            <ul class="nav  navbar-left navbar-nav" style="margin-top: 6px">
+            <ul class="nav  navbar-right navbar-nav" style="margin-top: 6px">
                 <li class="active" ><a href="#">ARTICLES <span class="sr-only">(current)</span></a></li>
                 <li ><a href="#">VIDEO</a></li>
             </ul>
 
-            <form class="navbar-form navbar-right" style="border-color: #ffffff;margin-top: 9px;">
+            <form class="navbar-form navbar" style="border-color: #ffffff;margin-top: 9px;">
                 <div class="input-group">
                     <input type="text" class="form-control" placeholder="Search" style="margin-top:6px;border-radius: 0px;-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.1);-moz-box-shadow: 0 1px 2px rgba(0,0,0,.1);box-shadow: 0 1px 2px rgba(0,0,0,.1);font-size: 15px;">
                     <span class="input-group-btn">

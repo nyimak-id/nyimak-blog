@@ -19,10 +19,56 @@
 
             </div>
 		</div>
+		<!-- navbar kiri-->
 		<div class="col-md-4">
 			<div class="card " style="min-height: 230px">
 				<div calss="card-header" style="text-align: center;">
-					<h3>Artikel Terpopuler</h3>
+					<h3>Recomended Artikel</h3>
+				</div>
+
+				<div class="card-content" style="min-height: 60px;">				
+				<div class="media">
+				  <div class="media-left media-middle">
+				    <a href="#">
+				      <img class="media-object" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 160px; height: 94px;">
+				    </a>
+				  </div>
+				  <div class="media-body">
+				    <h4 class="media-heading">Middle aligned media</h4>
+				    <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+				  </div>
+				</div>
+
+				<div class="media">
+				  <div class="media-left media-middle">
+				    <a href="#">
+				      <img class="media-object" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 160px; height: 94px;">
+				    </a>
+				  </div>
+				  <div class="media-body">
+				    <h4 class="media-heading">Middle aligned media</h4>
+				    <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+				  </div>
+				</div>
+
+				<div class="media">
+				  <div class="media-left media-middle">
+				    <a href="#">
+				      <img class="media-object" src="<?php echo base_url(); ?>assets/images/cfddb9d5fa35abb0f450843e7fca4be1.png" style="width: 160px; height: 94px;">
+				    </a>
+				  </div>
+				  <div class="media-body">
+				    <h4 class="media-heading">Middle aligned media</h4>
+				    <p style="color: #84909f;font-size: 11px;padding-bottom: 5px">20 Januari 2017</p>
+				  </div>
+				</div>
+				
+				</div>
+			</div>
+
+			<div class="card " style="min-height: 230px">
+				<div calss="card-header" style="text-align: center;">
+					<h3>Recomended Video</h3>
 				</div>
 
 				<div class="card-content" style="min-height: 60px;">				
@@ -66,5 +112,6 @@
 			</div>
 			
 		</div>
+		<!-- end navbar kiri-->
 	</div>
 </div>
